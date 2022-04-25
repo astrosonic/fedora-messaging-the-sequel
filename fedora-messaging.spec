@@ -1,7 +1,7 @@
 %global pkgname fedora-messaging
 %global srcname fedora_messaging
 %global desc \
-Tools and APIs to make working with AMQP in Fedora easier.
+Tools and APIs to make working with AMQP in Fedora very easier.
 
 %{?python_enable_dependency_generator}
 
